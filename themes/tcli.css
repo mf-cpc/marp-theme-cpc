@@ -26,11 +26,11 @@ section::after {
   font-weight: 700;
   content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
 }
-/*
+
 ul ul {
   font-size: 0.9em;
 }
-
+/*
 section.lead h1 {
   color: #800000;
   text-align: left;
@@ -78,7 +78,7 @@ header {
   text-align: right;
   text-transform: uppercase;
 }
-/*
+
 blockquote {
   max-width: 90%;
   border-top: 0.1em dashed #555;
@@ -101,4 +101,3 @@ img[alt~="center"] {
 code {
   font-family: 'Source Code Pro', monospace;
 }
- */
