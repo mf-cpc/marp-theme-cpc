@@ -1,1 +1,10 @@
+/* tcli.css */
+/* @theme tcli */
 
+@import 'default';
+
+section {
+    /* Override default background */
+    background: #00F;
+    color: #f0f;
+}
