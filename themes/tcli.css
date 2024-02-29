@@ -19,6 +19,7 @@ section {
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
+  justify-content: center;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
