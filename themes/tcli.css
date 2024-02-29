@@ -12,14 +12,14 @@
   --color-highlight: #800000;
 }
 
-/* section {
+section {
   background-image: none;
   font-family: 'Open Sans', 'Titillium Web', sans-serif;
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
 }
-
+/*
 /* https://github.com/marp-team/marpit/issues/271 */
 section::after {
   font-weight: 700;
